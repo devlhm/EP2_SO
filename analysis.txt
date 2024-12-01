@@ -1,0 +1,137 @@
+Performance analysis:
+
+========================================
+INPUT LENGTH: 10
+
+Threads: 1
+Average time: 0.100000ms +/- 0.002039
+
+Threads: 2
+Average time: 0.106000ms +/- 0.001588
+
+Threads: 3
+Average time: 0.102000ms +/- 0.001556
+
+Threads: 4
+Average time: 0.105000ms +/- 0.001998
+
+Threads: 5
+Average time: 0.117000ms +/- 0.001925
+
+Threads: 6
+Average time: 0.111000ms +/- 0.003300
+
+Threads: 7
+Average time: 0.091000ms +/- 0.002045
+
+Threads: 8
+Average time: 0.107000ms +/- 0.001714
+
+========================================
+INPUT LENGTH: 100
+
+Threads: 1
+Average time: 0.162000ms +/- 0.004244
+
+Threads: 2
+Average time: 0.181000ms +/- 0.001362
+
+Threads: 3
+Average time: 0.177000ms +/- 0.002746
+
+Threads: 4
+Average time: 0.182000ms +/- 0.002189
+
+Threads: 5
+Average time: 0.170000ms +/- 0.002321
+
+Threads: 6
+Average time: 0.164000ms +/- 0.002537
+
+Threads: 7
+Average time: 0.160000ms +/- 0.001458
+
+Threads: 8
+Average time: 0.180000ms +/- 0.002476
+
+========================================
+INPUT LENGTH: 1000
+
+Threads: 1
+Average time: 0.892000ms +/- 0.009900
+
+Threads: 2
+Average time: 0.973000ms +/- 0.007383
+
+Threads: 3
+Average time: 1.022000ms +/- 0.014943
+
+Threads: 4
+Average time: 1.075000ms +/- 0.018154
+
+Threads: 5
+Average time: 1.095000ms +/- 0.014305
+
+Threads: 6
+Average time: 1.168000ms +/- 0.013208
+
+Threads: 7
+Average time: 1.151000ms +/- 0.016577
+
+Threads: 8
+Average time: 1.135000ms +/- 0.028556
+
+========================================
+INPUT LENGTH: 10000
+
+Threads: 1
+Average time: 7.260000ms +/- 0.270001
+
+Threads: 2
+Average time: 7.501000ms +/- 0.259618
+
+Threads: 3
+Average time: 7.054000ms +/- 0.205641
+
+Threads: 4
+Average time: 6.568000ms +/- 0.257793
+
+Threads: 5
+Average time: 6.986000ms +/- 0.258658
+
+Threads: 6
+Average time: 7.403000ms +/- 0.220178
+
+Threads: 7
+Average time: 7.388000ms +/- 0.257348
+
+Threads: 8
+Average time: 7.326000ms +/- 0.269935
+
+========================================
+INPUT LENGTH: 50000
+
+Threads: 1
+Average time: 38.432999ms +/- 0.852724
+
+Threads: 2
+Average time: 39.945999ms +/- 0.799186
+
+Threads: 3
+Average time: 38.597000ms +/- 0.860326
+
+Threads: 4
+Average time: 38.208000ms +/- 0.868290
+
+Threads: 5
+Average time: 37.330002ms +/- 0.961816
+
+Threads: 6
+Average time: 38.103001ms +/- 1.050210
+
+Threads: 7
+Average time: 37.807999ms +/- 0.883678
+
+Threads: 8
+Average time: 39.449001ms +/- 1.147190
+
